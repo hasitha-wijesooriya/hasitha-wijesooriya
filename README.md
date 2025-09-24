@@ -1,15 +1,12 @@
-## Hi👋,I'm Hasitha Wijesooriya
+# Hasitha Wijesooriya
 
 ###
 
-<div align="center" dir="auto">
-<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/4f792e0d80338d4383c18f32c2bb86c1bb32c8812670f73bd69b41de8baab297/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d3f666f6e743d466972612b436f6465266475726174696f6e3d333030302670617573653d3130303026636f6c6f723d3341424645462663656e7465723d74727565267643656e7465723d747275652677696474683d343335266c696e65733d4253432b2532362b53452b5370656369616c6973743b46756c6c2b537461636b2b446576656c6f7065723b41492b456e74687573696173743b53796265722b5365637572697479"><img src="https://camo.githubusercontent.com/4f792e0d80338d4383c18f32c2bb86c1bb32c8812670f73bd69b41de8baab297/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d3f666f6e743d466972612b436f6465266475726174696f6e3d333030302670617573653d3130303026636f6c6f723d3341424645462663656e7465723d74727565267643656e7465723d747275652677696474683d343335266c696e65733d4253432b2532362b53452b5370656369616c6973743b46756c6c2b537461636b2b446576656c6f7065723b41492b456e74687573696173743b53796265722b5365637572697479" alt="Typing SVG" data-canonical-src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;duration=3000&amp;pause=1000&amp;color=3ABFEF&amp;center=true&amp;vCenter=true&amp;width=435&amp;lines=BSC+%26+SE+Specialist;Full+Stack+Developer;AI+Enthusiast;" style="max-width: 100%;"></a></p>
-  </div>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=3ABFEF&center=true&vCenter=true&width=600&lines=👋+Hi+There!+I'm+Hasitha+Wijesooriya;💻+Software+Engineering+Student;🌐+Web+Developer+%7C+Full+Stack+Developer;🚀+AI+Enthusiast" alt="Typing SVG" />
+</p>
 
-### 
-
-### 🛠 Languages and Tools
-
+## 🚀 Languages and Tools
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java" height="60" alt="java logo"  />
   <img width="12" />
@@ -40,19 +37,71 @@
   <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo"  />
 </div>
 
-###
+***
 
-<!--
-**hasitha-wijesooriya/hasitha-wijesooriya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🖥️ Programming Languages
 
-Here are some ideas to get you started:
+<p align="left">
+  <a href="https://www.java.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Java-05122A?style=flat&logo=java" alt="Java"/>
+  </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript" alt="JavaScript"/>
+  </a> 
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚙️ Technologies & Frameworks
+
+<p align="left">
+  
+  <a href="https://reactnative.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/-React%20Native-05122A?style=flat&logo=react" alt="React Native"/>
+  </a> 
+  <a href="https://getbootstrap.com/" target="_blank">
+    <img src="https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap" alt="Bootstrap"/>
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank">
+  <img src="https://img.shields.io/badge/-TailwindCSS-05122A?style=flat&logo=tailwindcss" alt="TailwindCSS"/>
+</a>
+</p>
+
+## 🗄️ Databases
+
+<p align="left">
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql" alt="MySQL"/>
+  </a> 
+  <a href="https://firebase.google.com/" target="_blank">
+    <img src="https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase&logoColor=white" alt="Firebase"/>
+  </a>
+</p>
+
+## 👨‍💻 About Me
+
+``` js
+const Hasitha = {
+    location: "Sri Lanka 🇱🇰",
+    education: "BSc(Hons) in Software Engineering ",
+    roles: ["Full Stack Developer", "AI Enthusiast"],
+    currentFocus: [ "Hotel Management Systems","Ai itegrate Apps"],
+    communities: {
+        member: ["AI Sri Lanka", "Open Source DevelopersAZZ
+    },
+    lifePhilosophy: "Innovation drives the future 🚀"
+};
+```
+## 🤝 Connect & Collaborate
+
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
+
+
+*** 
+<div align="center" dir="auto">
+<p dir="auto">**💡 Createded by Hasitha Wijesooriya **</p>
+<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg"><img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Wave" style="max-width: 100%;"></a></p>
+</div>
+
