@@ -101,7 +101,7 @@ const Hasitha = {
 
 *** 
 <div align="center" dir="auto">
-<p dir="auto">**💡 Createded by Hasitha Wijesooriya **</p>
+<p dir="auto">**💡 Created by Hasitha Wijesooriya **</p>
 <p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg"><img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Wave" style="max-width: 100%;"></a></p>
 </div>
 
